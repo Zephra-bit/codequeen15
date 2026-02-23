@@ -1,10 +1,13 @@
-*{
-    background-color: rgb(185, 255, 127);
-}
+/* *{
+    background-color: rgb(127, 255, 136);
+} */
 h1{
     color: brown;
     
 }
 img{
     width: 100px;
+}
+.hobbies{
+    background-color: rgb(255, 98, 0);
 }
