@@ -1,13 +1,38 @@
-/* *{
-    background-color: rgb(127, 255, 136);
-} */
+*{
+    margin:0cm;
+    padding: 0;
+}
 h1{
     color: brown;
     
 }
+
+
 img{
     width: 100px;
 }
 .hobbies{
     background-color: rgb(255, 98, 0);
+}
+#sample{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: aqua;
+    background-color: rgb(196, 255, 201);
+    border: 6px red solid;
+
+}
+.box{
+  border-style: groove; 
+  margin: 10px 15px; 
+  padding: 20px ;
+}
+/* my flexibox properties */
+.container{
+    background-color: violet;
+}
+.child{
+    background-color: mediumseagreen;
+    display: flex;
+    
 }
