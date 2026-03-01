@@ -28,11 +28,24 @@ img{
   padding: 20px ;
 }
 /* my flexibox properties */
-.container{
+/* .container{
     background-color: violet;
-}
+} */
 .child{
     background-color: mediumseagreen;
     display: flex;
+    
+}
+/* conitainer 2 */
+.containerblue{
+    border: 3px blue solid;
+    display: flex;
+    flex-direction: row;
+
+}
+.flex-items{
+    border: 2px orange solid;
+    margin: 15px;
+   
     
 }
